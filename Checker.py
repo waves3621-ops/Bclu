@@ -37,7 +37,7 @@ class CheckerStats:
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-TARGET_URL    = "https://target.example.com/api/login"
+TARGET_URL    = "https://bclub.tk/login2/
 COMBO_FILE    = "combos.txt"          # format: user:pass per line
 HIT_FILE      = "hits.txt"
 INVALID_FILE  = "invalid.txt"
